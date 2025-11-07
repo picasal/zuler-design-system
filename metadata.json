@@ -1,0 +1,5 @@
+{
+  "name": "Zuler Design System",
+  "description": "A documentation site for a custom component library, inspired by shadcn/ui. Designed to be easily connected to a live data source for showcasing components.",
+  "requestFramePermissions": []
+}
